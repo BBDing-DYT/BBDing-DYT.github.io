@@ -22,7 +22,7 @@ Research interests
 * **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
 * **Feb. 2025**: One papers have been accepted by ***PAKDD 2025*** !!
 
-Publications [[See All](https://BBDing-DYT.github.io/publications/)]
+Publications
 =====
 
 1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
