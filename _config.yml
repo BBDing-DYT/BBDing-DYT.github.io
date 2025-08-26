@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuntai Ding"
   avatar           : "Ding.jpg"
-  bio              : "Assistant Professor at School of Information Technology & Management, University of International Business and Economics"
-  location         : "Beijing, China"
+  bio              : "Ph.D. Candidate in Software Engineering, Northeastern University (China)"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ"
-  email            : "yifanwang@uibe.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yifan-Wang-108"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=b1ordtwAAAAJ"
+  email            : "chinaytding@163.com"
+  researchgate     : # "https://www.researchgate.net/profile/Yifan-Wang-108"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jamesyifan"
+  github           : "BBDing-DYT"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7764-8698"
+  orcid            : "https://orcid.org/0009-0002-4367-7946"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
