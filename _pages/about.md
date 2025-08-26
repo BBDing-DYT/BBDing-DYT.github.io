@@ -37,6 +37,7 @@ IEEE Transactions on Multimedia <br>
 
 3.  *SSGNN: Structure-Aware Scoring Graph Neural Network for Molecular Representation* [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_6)] <br>
 Chunyan Han, Haodong Zhang, Chen Lu, **Yuntai Ding**, Xingqi Li <br>
+Pacific-Asia Conference on Knowledge Discovery and Data Mining <br>
 ***PAKDD 2025, <span style="color:red">CCF-C</span>***
 
 Reviewer/Subreviewer
