@@ -31,9 +31,9 @@ ACM Multimedia 2025 <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>***
    
 2.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
-Yuntai Ding, Tao Ren, **Yifan Wang<sup>\#</sup>**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
+**Yuntai Ding**, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=9.7</span>***
 
 3.  *SSGNN: Structure-Aware Scoring Graph Neural Network for Molecular Representation* [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_6)] <br>
 Chunyan Han, Haodong Zhang, Chen Lu, **Yuntai Ding**, Xingqi Li <br>
