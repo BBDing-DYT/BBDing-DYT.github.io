@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuntai Ding's Homepage"
 title_separator          : "-"
-name                     : &name "Yifan Wang"
+name                     : &name "Yuntai Ding"
 description              : &description "personal description"
 url                      : https://BBDing-DYT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
