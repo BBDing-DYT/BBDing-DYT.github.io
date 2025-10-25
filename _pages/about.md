@@ -25,12 +25,12 @@ Research interests
 Publications
 =====
 
-1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
+1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
 Yifan Wang, **Yuntai Ding**, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
 ACM Multimedia 2025 <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>***
    
-2.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
+2.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](https://ieeexplore.ieee.org/document/11197592)] <br>
 **Yuntai Ding**, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=9.7</span>***
