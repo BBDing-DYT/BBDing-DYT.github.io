@@ -26,13 +26,13 @@ Research interests
 Publications
 =====
 
-1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper(https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
+1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper]([https://ieeexplore.ieee.org/document/11197592](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=69&isnumber=11479420))] <br>
 **Yuntai Ding**, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng
 Hua <br>
 IEEE Transactions on Knowledge and Data Engineering 2026 <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
-1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
+2. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
 Yifan Wang, **Yuntai Ding**, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
 ACM Multimedia 2025 <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>***
