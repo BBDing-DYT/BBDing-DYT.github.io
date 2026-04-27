@@ -26,17 +26,23 @@ Research interests
 Publications
 =====
 
+1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper(https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
+**Yuntai Ding**, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng
+Hua <br>
+IEEE Transactions on Knowledge and Data Engineering 2026 <br>
+***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
+
 1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
 Yifan Wang, **Yuntai Ding**, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
 ACM Multimedia 2025 <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>***
    
-2.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](https://ieeexplore.ieee.org/document/11197592)] <br>
+3.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper](https://ieeexplore.ieee.org/document/11197592)] <br>
 **Yuntai Ding**, Tao Ren, Yifan Wang, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=9.7</span>***
 
-3.  *SSGNN: Structure-Aware Scoring Graph Neural Network for Molecular Representation* [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_6)] <br>
+4.  *SSGNN: Structure-Aware Scoring Graph Neural Network for Molecular Representation* [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-8298-0_6)] <br>
 Chunyan Han, Haodong Zhang, Chen Lu, **Yuntai Ding**, Xingqi Li <br>
 Pacific-Asia Conference on Knowledge Discovery and Data Mining <br>
 ***PAKDD 2025, <span style="color:red">CCF-C</span>***
