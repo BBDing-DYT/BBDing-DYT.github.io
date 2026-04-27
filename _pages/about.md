@@ -26,7 +26,7 @@ Research interests
 Publications
 =====
 
-1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69))] <br>
+1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <br>
 **Yuntai Ding**, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng
 Hua <br>
 IEEE Transactions on Knowledge and Data Engineering 2026 <br>
