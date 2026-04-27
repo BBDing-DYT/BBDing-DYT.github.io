@@ -29,7 +29,7 @@ Publications
 1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)] <br>
 **Yuntai Ding**, Tao Ren, Yiwei Fu, Yifan Wang, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng
 Hua <br>
-IEEE Transactions on Knowledge and Data Engineering 2026 <br>
+IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>***
 
 2. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755826)] <br>
