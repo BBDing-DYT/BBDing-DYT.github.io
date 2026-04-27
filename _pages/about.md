@@ -18,10 +18,10 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* **Apr. 2026**: One paper have been accepted by ***IEEE Transactions on Knowledge and Data Engineering 2026*** !!
-* **Jul. 2025**: One paper have been accepted by ***ACM MM 2025*** !!
-* **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
-* **Feb. 2025**: One papers have been accepted by ***PAKDD 2025*** !!
+* **Apr. 2026**: One paper has been accepted by ***IEEE Transactions on Knowledge and Data Engineering 2026*** !!
+* **Jul. 2025**: One paper has been accepted by ***ACM MM 2025*** !!
+* **Mar. 2025**: One paper has been accepted by ***IEEE Transactions on Multimedia 2025*** !!
+* **Feb. 2025**: One paper has been accepted by ***PAKDD 2025*** !!
 
 Publications
 =====
